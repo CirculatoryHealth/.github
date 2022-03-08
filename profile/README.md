@@ -2,7 +2,7 @@
 
 ✨ You've reached the **Circulatory Health Team GitHub**. We are **(medical) biologists**, 
 **medical doctors**, **geneticists**, **bioinformaticians**, and **data scientists** 
-interested in solving **medical problems** with a burning :fire: passion 💗: for **cardiovascular diseases :anatomical_heart:**. 
+interested in solving **medical problems** with a burning :fire: passion :heartbeat: for **cardiovascular diseases :anatomical_heart:**. 
 
 
 👯 We are always happy to _collaborate_ on any subject in the field cardiovascular diseases.
